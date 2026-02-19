@@ -5,7 +5,6 @@ Asset repository for [dojos.fun](https://dojos.fun) — sprites, images, sounds,
 ## Structure
 
 - `dialog/` — UI panels, tabs, dialogs
-- `svgs/` — SVG icons and graphics
 - `scenes/` — Scene backgrounds and imagery
 - Other asset folders as needed
 
